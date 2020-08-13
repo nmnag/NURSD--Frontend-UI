@@ -1,0 +1,323 @@
+h1{
+  font-size: 24px;
+  color: #1082CB;
+  font-family: 'century-gothic';
+  font-weight: bolder;
+  display: inline;
+}
+.logotop{
+  margin-top: 20px;
+}
+
+.topnav{
+  height: 90px;
+  background-color:#FFFF;
+}
+.MuiAppBar-colorPrimary{
+  background-color: #FFF;
+  color: #000000;
+
+}
+.MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary topnav MuiPaper-elevation4{
+  background-color: #FFF;
+  color: #000000;
+}
+
+.butt7{
+  display: inline;
+  margin-left: 650px;
+  margin-top: 20px;
+  background: #1082CB;
+  color: white;
+  border: 1px solid #1082CB;
+  border-radius: 3px;
+}
+.butt7:hover{
+    background: #38b1ff;
+    color: white;
+    border: 2px solid #1082CB;
+}
+.shifts{
+  margin-top: 30px;
+  margin-left: 30px;
+  color: black;
+}
+.bell{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.ac{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.Groups{
+  margin-right: 20px;
+}
+.one{
+  display:inline;
+  font-size: 24px;
+  font-weight: 200;
+  font-family: 'century-gothic';
+  margin-top: 20px;
+}
+
+h2{
+  font-size: 24px;
+  font-weight: 200;
+  font-family: 'century-gothic';
+}
+
+.logo{
+  width:100%;
+  height: 90%;
+  border-radius: 6px;
+  margin-top: 30px;
+}
+
+.figcaption{
+  position:relative;
+  font-family: 'century-gothic';
+}
+
+.butt1{
+      background-color: rgb(0, 189, 76);
+      color: white;
+      border: 1px solid rgb(0, 189, 76);
+      margin-left: 30px;
+      margin-bottom: 20px;
+      font-family: 'century-gothic ';
+      border-radius: 8px;
+      height:"2.0rem";
+      width:80%;
+      padding-bottom: 10px;
+}
+
+.add{
+  background-color: #f2f2f2;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom:340px;
+  width:100%;
+  padding: 8px;
+  padding-left: 20px;
+  border-radius: 4px;
+  background-image: url('map-pin 1.png');
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: left center;
+}
+
+.calendar{
+  display:inline-block;
+  margin-left: 30px;
+  margin-right: 5px;
+
+}
+
+.dou{
+  display: inline-block;
+  font-size: 16px;
+}
+
+.clock{
+  display: inline-block;
+  margin-left: 80px;
+}
+
+.time{
+ display: inline-block;
+ margin-left: 5px;
+  font-size: 14px;
+}
+
+.popo{
+  display: inline;
+  margin-bottom: 20px;
+}
+
+.toto{
+  display:inline;
+  margin-bottom: 20px;
+}
+.add1{
+  background-color: #f2f2f2;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom:340px;
+  width:100%;
+  padding: 8px;
+  padding-left: 20px;
+  border-radius: 4px;
+  background-image:  url('settings.png');
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: left center;
+}
+
+
+
+.two{
+  font-family: 'century-gothic ';
+  font-size: 29px;
+}
+
+.number{
+  margin-right: 10px;
+}
+.three{
+  display:inline;
+  font-family: 'century-gothic ';
+  font-size: 20px;
+}
+
+.butt2{
+  background-color: white;
+  color: #1082CB;
+  border: 2px solid #1082CB;
+  font-weight: bolder;
+  font-family: 'century-gothic ';
+  border-radius: 3px;
+  height: 3.0rem;
+}
+
+.butt3{
+  background-color: white;
+  color: #1082CB;
+  border: 2px solid #1082CB;
+  font-weight: bolder;
+  font-family: 'century-gothic ';
+  border-radius: 3px;
+  height: 3.0rem;
+  width: 100%;
+
+}
+
+.butt4{
+  margin-left: 20px;
+  height: 3.0rem;
+  width:100%;
+  background: #38b1ff;
+  color: white;
+  border: 2px solid #38b1ff;
+  border-radius: 3px;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.gallery {
+  background: #FFFFFF;
+  height: 200px;
+  width: 100%;
+
+}
+
+.logo1{
+  height: 200px;
+  width: 50%
+
+}
+.gallery-cell {
+  width: 120%;
+  height: 300px;
+  margin-right: 10px;
+  counter-increment: gallery-cell;
+}
+
+.gallery-cell:before {
+  display: block;
+  content: counter(gallery-cell);
+  line-height: 2px;
+}
+
+.footer{
+  background-color: #F1FAFF;
+  height: 50vh;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.logo7{
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.about{
+  margin-left: 30px;
+}
+.fop{
+  margin-top: 45px;
+  font-size: 12px;
+  font-weight: bolder;
+}
+.fohe{
+  font-family: century-gothic;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.text{
+  font-size: 14px;
+}
+
+.devider{
+  margin-left: 20px;
+}
+
+.facebook{
+  margin-left: 30px;
+}
+
+.twitter{
+  margin-left: 50px;
+}
+.bol{
+  margin-top: 80px;
+}
+
+.fool{
+  margin-top: 80px;
+  display: inline;
+}
+.fool2{
+  margin-top: 80px;
+  display: inline;
+  margin-left: 50px;
+}
+.l1{
+  display: inline;
+}
+
+.l12{
+  display: inline;
+  margin-left: 35px;
+}
+
+.l2{
+  display: inline;
+}
+
+.l22{
+  display: inline;
+  margin-left: 30px;
+}
+
+.l3{
+  display: inline;
+}
+
+.l32{
+  display: inline;
+  margin-left: 95px;
+}
+
+.l4{
+  display: inline;
+}
+
+.l42{
+  display: inline;
+  margin-left: 90px;
+}
