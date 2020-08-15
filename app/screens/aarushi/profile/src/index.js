@@ -168,10 +168,10 @@ const Faci = ()=>{
                 </div>
                 <input  className="in1" type="text" />
               </Grid>
-              <div> <label className="name">
+              {/* <div> <label className="name">
                     <p classname="p"> Email</p>
                     </label>
-              </div>
+              </div> */}
               <input className="inp"  type="text" />
                 <Grid item xs={6}>
                 <div> <label className="number">

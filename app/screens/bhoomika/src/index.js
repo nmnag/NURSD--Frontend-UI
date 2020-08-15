@@ -71,7 +71,7 @@ import Grid from '@material-ui/core/Grid';
                                </div>
                              
               
-              <label>Job Description</label>
+              {/* <label>Job Description</label>
                 <textarea id = "myTextArea"
                   rows = "3"Yo
                   cols = "55"></textarea>
@@ -91,12 +91,9 @@ import Grid from '@material-ui/core/Grid';
                 <textarea id = "myTextArea"
                   rows = "3"
                   cols = "55"></textarea>
-                </div>       
+                </div>        */}
                       
-              <label>About Facility</label>
-                <textarea id = "myTextArea"
-                  rows = "3"
-                  cols = "55"></textarea>
+              
       
       </div>            
                         </Grid>
@@ -104,13 +101,13 @@ import Grid from '@material-ui/core/Grid';
 
                         <Grid item xs={6}>
                         
-              <label>Necessary Qualifications & Licenses</label>
+                <label>About Facility</label>
                 <textarea id = "myTextArea"
                   rows = "3"
                   cols = "55"></textarea>
                       
                        
-              <label>Benefits & Remarks </label>
+              <label>Remarks </label>
                 <textarea id = "myTextArea"
                   rows = "3"
                   cols = "55"></textarea>
