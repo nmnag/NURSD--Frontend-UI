@@ -42,4 +42,5 @@ const Page5 = () => {
 
     );
 }
-ReactDom.render(<Page5 />, document.querySelector('#root'))
+// ReactDom.render(<Page5 />, document.querySelector('#root'))
+export default Page5;

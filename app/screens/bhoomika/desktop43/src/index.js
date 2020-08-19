@@ -130,7 +130,7 @@ return(
           <Container style={{width: "40rem", height:'1000px'}}>
                     <form>
                     <div className="upcoming">
-                    <p style={{marginBottom:'10px'}}className="up"> Upcoming Shifts for </p>
+                    <p style={{marginBottom:'10px'}}className="up"> Completed Shifts for </p>
                     <img src={Group76} alt="Group76" className="left"/>
                     <p style={{marginBottom:'10px'}} className="up"> 5th Jul'20 - 11thJul'20</p>
                     <img src={Group44} alt="Group44" className="right"/>
@@ -318,5 +318,4 @@ return(
 
 
 
-// ReactDom.render(<Faci />, document.querySelector('#root'))
-export default Faci;
+ReactDom.render(<Faci />, document.querySelector('#root'))

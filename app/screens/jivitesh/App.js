@@ -7,13 +7,15 @@ import Faci from './facility';
 import Faci1 from './facility1';
 import Schud from './schedular';
 import Card from './card';
+// import App2 from '../naman/shiftsettingsMain/src/index';
 const App=()=>{
     return(
         <div>
-           
+           {/* <NavBar /> */}
             <div>
                 <Card/>
             </div>
+            {/* <Bottoms/> */}
         </div>
     );
 };

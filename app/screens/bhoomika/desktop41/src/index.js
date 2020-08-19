@@ -318,5 +318,4 @@ return(
 
 
 
-// ReactDom.render(<Faci />, document.querySelector('#root'))
-export default Faci;
+ReactDom.render(<Faci />, document.querySelector('#root'))

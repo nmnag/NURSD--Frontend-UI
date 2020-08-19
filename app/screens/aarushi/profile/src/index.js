@@ -358,4 +358,5 @@ const Faci = ()=>{
 
     );
 };
-ReactDom.render(<Faci />, document.querySelector('#root'))
+// ReactDom.render(<Faci />, document.querySelector('#root'))
+export default Faci;
